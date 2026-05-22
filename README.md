@@ -34,7 +34,7 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vue,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vue" />
 </p>
 
 ### Backend
@@ -48,6 +48,13 @@
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
+</p>
+
 
 ### Tools
 
@@ -112,5 +119,23 @@ Generate this using GitHub Actions:
 ### "Keep learning, keep building, and never stop improving."
 
 <img src="https://komarev.com/ghpvc/?username=MengSonly17&label=Profile+Views&color=blueviolet"/>
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+### 💭 Developer Mindset
+
+*"Code. Learn. Build. Improve. Repeat."*
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,50:8A6DFF,100:4DA8FF&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
