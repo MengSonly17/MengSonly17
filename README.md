@@ -94,9 +94,9 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
-<a href="https://web.facebook.com/lee.hee.min369/">
+<!-- <a href="https://web.facebook.com/lee.hee.min369/">
 <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook"/>
-</a>
+</a> -->
 
 <a href="mailto:mengsonly5555@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
